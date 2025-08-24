@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Cadastro-de-Livros</string>
+    <string name="app_name">Cadastro de Livros</string>
+    <string name="hint_title">Título do Livro</string>
+    <string name="hint_author">Autor do Livro</string>
+    <string name="button_register">Cadastrar Livro</string>
+    <string name="label_title">Título:</string>
+    <string name="label_author">Autor:</string>
 </resources>
+
